@@ -20,5 +20,12 @@ Include the files used
 4. washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Add links to any repo that inspired you or blogposts you consulted.
+
+1. Python screen clear command :
+https://stackoverflow.com/questions/2084508/clear-terminal-in-python 
+
+2. Python add delay : 
+https://realpython.com/python-sleep/
+
 

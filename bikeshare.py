@@ -14,7 +14,7 @@ def getMonth(argument):
         Defines a dictionary for Month lookup.
 
         Returns : 
-            (str) Name of the month
+            (str) Name of the month.
     """
     month_dict = {
         0: "All",
@@ -39,7 +39,7 @@ def getCity(argument):
         Defines a dictionary for City lookup.
 
         Returns : 
-            (str) Name of the city
+            (str) Name of the city.
     """
     city_dict = {
         1: "Chicago",
@@ -54,7 +54,7 @@ def getDay(argument):
         Defines a dictionary for Day of the week lookup.
 
         Returns : 
-            (str) Name of the day of the week
+            (str) Name of the day of the week.
     """
     city_day = {
         1: "Monday",
